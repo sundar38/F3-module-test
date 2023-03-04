@@ -20,7 +20,7 @@ function searchnow() {
         
         
         console.log(searchval);
-        document.querySelector(".text").innerHTML=`Book Results for '${searchval}'`
+        document.querySelector(".text").innerHTML=`Book Results For '${searchval}'`
         let count=true
         let arr=[]
         for(let i=0;i<10;i++){
