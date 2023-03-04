@@ -41,3 +41,17 @@ button{
     padding: 10px;
 
 }
+.textbar i{
+    position: relative;
+    left: 10px;
+    top: 1px
+}
+.textbar input{
+    height: 22px;
+}
+.buy{
+    border-radius: 7px;
+}
+button{
+    border-radius: 7px;
+}
